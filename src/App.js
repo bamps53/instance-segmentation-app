@@ -9,7 +9,7 @@ function App() {
       <h1>Image Annotation Tool</h1>
       <ImageUpload />
       {/* あとで適切な画像を指定する */}
-      {/* <AnnotateImage src="path_to_image" /> */}
+      <AnnotateImage src="path_to_image" />
     </div>
   );
 }

@@ -37,3 +37,5 @@ function AnnotateImage({ src }) {
         </div>
     );
 }
+
+export default AnnotateImage;
